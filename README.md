@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi! My name is SunWoo Nam. Nice to meet you.
+
+
 
 <!--
 **swnam818/swnam818** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
